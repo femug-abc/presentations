@@ -1,4 +1,5 @@
-# Presentations
+# Apresentações
+
 Repositório de apresentações do femug-abc
 
 * [FEMUG-ABC #2 - Como aproveitar o Node.js no Desenvolvimento Front End](https://github.com/darlanmendonca/femug-2)
